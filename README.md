@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Evgenii Korotkikh
 - 👀 I’m interested in DevOps
-- 🌱 I’m currently learning Linux,Docker,Go
+- 🌱 I’m currently learning Linux,Docker,Terraform, Ansible, Python
 - 📫 How to reach me: korotkikh.ev94@gmail.com
 
 <!---
