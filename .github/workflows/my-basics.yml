@@ -31,7 +31,7 @@ jobs:
       run: pwd
       
     - name: msg
-      run: cat /README.md
+      run: cat /home/runner/work/korotkikh-ev/korotkikh-ev/README.md
 
   my_deploy:
     runs-on: ubuntu-latest
