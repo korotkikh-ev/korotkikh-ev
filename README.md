@@ -1,3 +1,6 @@
+Status of last Deployment: <br>
+<img src="https://github.com/korotkikh-ev/korotkikh-ev/workflows/CI-GitHubActions/badge.svg?branch=main"><br>
+
 - 👋 Hi, I’m Evgenii Korotkikh
 - 👀 I’m interested in DevOps
 - 🌱 I’m currently learning Linux,Docker,Terraform, Ansible, Python
