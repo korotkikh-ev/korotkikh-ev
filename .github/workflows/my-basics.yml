@@ -1,4 +1,7 @@
 name: CI-GitHubActions
+env:
+   APPLICATION_NAME: "My_Flask"
+   PACKAGE_NAME: "flask-deploy-ver: ${{ github.sha }}"
 
 on:
    push:
