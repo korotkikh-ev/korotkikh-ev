@@ -3,7 +3,7 @@ name: CI-GitHubActions
 on:
    push:
      branches: 
-        - master
+        - main
 
 
 jobs:
