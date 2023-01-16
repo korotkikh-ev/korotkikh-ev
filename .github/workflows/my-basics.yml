@@ -1,0 +1,21 @@
+name: CI-GitHubActions
+
+on:
+   push:
+     branches: 
+        - master
+
+
+jobs:
+  my_testing:
+    runs-on: ubuntu-latest
+    
+    steps: 
+    - name: Print Hello msg
+      run: echo "Hello world from Testing Job"
+      
+  my_deploy:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Print Hello msg
+      run: echo "Hello world from Deploy Job"
